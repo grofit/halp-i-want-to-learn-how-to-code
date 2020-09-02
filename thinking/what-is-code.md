@@ -31,3 +31,5 @@ They all mean the same thing, but can be expressed in almost each spoken languag
 So as we go through we will hopefully see how we can tell a computer to print out text to the screen. The action we want achieve will always be the same but the **Syntax** required will be slightly/moderately different depending on the language.
 
 > Dont worry too much about this for now, we will touch much more on it later as we learn more about basic code and see how it differs between languages.
+
+Now that we have covered this high level stuff lets look at the most basic thing in code, a variable.
