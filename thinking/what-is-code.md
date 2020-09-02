@@ -24,4 +24,10 @@ So if we look at spoken languages I could say:
 - Salam 
 - Kon'nichiwa
 
-They all mean the same thing, but can be expressed in almost each spoken language, and like that we can express the same sort of stuff in loads of different languages, this is known as **Syntax**.
+They all mean the same thing, but can be expressed in almost each spoken language, and like that we can express the same sort of stuff in loads of different languages, in programming this is known as **Syntax**.
+
+## Syntax
+
+So as we go through we will hopefully see how we can tell a computer to print out text to the screen. The action we want achieve will always be the same but the **Syntax** required will be slightly/moderately different depending on the language.
+
+> Dont worry too much about this for now, we will touch much more on it later as we learn more about basic code and see how it differs between languages.
