@@ -6,3 +6,6 @@
     * [MORE VARIABLES](thinking/more-on-vars.md)
     * [MOAR DATA TYPES](thinking/more-on-data-types.md)
     * [Memory](thinking/more-on-data-types.md)
+    * [Operators](thinking/operators.md)
+    * [Functions](thinking/functions.md)
+    * [End](thinking/end.md)

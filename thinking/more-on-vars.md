@@ -38,7 +38,7 @@ If you remember back in the previous chapter we mentioned that numeric types are
 
 Other than the data type changes the rest of the syntax is the same, and this is one reason why i'm keen to try and teach how to program with this in mind. As a lot of the time tutorials are **LEARN JAVA IN 30 DAYS** or **LEARN C++ IN 50 YEARS** which is great when you want to just learn a single language, but I feel its better for you to see multiple languages at once and see just how similar everything is between them all.
 
-In the long run this helps you break out from the *"I'm a <insert language>"* dev and instead just be a programmer who can pick up most common languages and hit the ground running.
+In the long run this helps you break out from the `"I'm a <insert language> dev"` and instead just be a programmer who can pick up most common languages and hit the ground running.
 
 ## String variables
 

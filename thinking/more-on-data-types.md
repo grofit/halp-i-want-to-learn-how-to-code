@@ -41,16 +41,24 @@ We have already discussed integers at a high level but there are actually a few 
 This is the 2nd smallest int as a byte is technically a type of integer. It is known as `int16` or `short` (they both mean same thing) and it can store a value between -32,768 to 32,767.
 
 ```c#
-short aSmallValue = 
+short aSmallValue = 128;
 ```
 
 #### Int32 / Int
 
 This is the most common int, and if you were to just use `int` this is the type of integer you would be provided. It can store a value between -2,147,483,648 to 2,147,483,647.
 
+```c#
+int aDefaultIntegerValue = 128;
+```
+
 #### Int64 / Long
 
 This is the biggest common integer and can store numbers between -2,147,483,648 to 2,147,483,647.
+
+```c#
+long aSuperBigIntegerValue = 128;
+```
 
 > You may be wondering why we have this many int types, and we are about to see there are lots of float types too, but we will address the **WHY** shortly
 
@@ -62,9 +70,19 @@ Like `int` we have already discussed `float` but there are a few different flavo
 
 A float can also be known as a `single` and is the default `float` provided to you, it can store 6-9 digits accurately. So unlike an integer type which stores a value between a min and max a float is more geared for accuracy so you could have 6-9 (depending on language) digits and have the decimal place anywhere, be it 1.23456789 or 123456.789. If you try to store more digits it just truncates it.
 
+```c#
+float someValueThatSupportsDecimalPlaces = 128;
+```
+
 #### Double
 
 This name makes more sense if you think of a `float` as a `single`, but this is the same sort of thing, just allows more accuracy giving 15-17 digits of precision (again depending on language).
+
+```c#
+double someEvenLargerValueSupportingDecimals = 128;
+```
+
+> I am purposely not showing decimal place values for a reason which we will get onto later, as sometimes you need to explicitly infer the way a number should be processed, and thats something we shouldn't worry about right now.
 
 ### Char
 
@@ -72,11 +90,21 @@ A char is just a single character/letter, however under the hood really its just
 
 If I asked you to tell me the 3rd letter of the alphabet, you could hopefully tell me its `C`, and the same sort of notion applies here with `char` types, they use numbers as letter indexes. 
 
+```c#
+char someLetter = 'H';
+```
+
+> Notice that we are using single quote/apostraphes here rather than double quotes? That is because we use single quotes for a single character or double quotes for a string
+
 You don't really need to care about this for now but its interesting to point out that most of these types realistically can be seen as numeric when we look closer.
 
 ### String
 
 As mentioned before a `string` is just a sequence of characters which are all contextually related. So if we were to dig a little deeper at a `string` with a value `HELLO` it's actually just 5 `char` values all stringed together.
+
+```c#
+string someText = "Hello";
+```
 
 Strings can contain as many or little characters as you want, so where other types are often fixed in terms of their value sizes, strings can expand as needed so they have no fixed value range.
 
