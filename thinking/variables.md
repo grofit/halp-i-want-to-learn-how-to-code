@@ -79,6 +79,8 @@ This tells JS (cba typing Javascript everywhere) that we are creating a variable
 
 This is the name of the variable we want to store. This is super important as without the name of the variable we cannot access it, like if I ask you for your age you know what im talking about and where to think to retrieve that data. Same thing here, its a handle for the computer to know where to rummage around to get the data back for you.
 
+> It is worth noting here that in majority of languages your variable names MUST START WITH LETTERS, they can contain numbers but you will get errors if you start a variable name with a number or symbol. It is recommended to always use text wherever you can, certain language have conventions for naming variables but more on that later.
+
 #### `=`
 
 This is the equals sign, im sure you have used this before in basic maths etc. This is telling JS that we want to set the value for the variable we have created.
