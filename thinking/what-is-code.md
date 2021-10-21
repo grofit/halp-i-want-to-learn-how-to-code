@@ -8,7 +8,7 @@ Code is a lot like this, and also like talking languages there are hundreds if n
 
 ## Programming Languages
 
-You may have heard of some of the more popular ones like **C Sharp** (C#), **Java**, **Javascript** (JS) (nothing to do with java, well kinda...), **PHP**, **Ruby**, **C/C Plus Plus** (C/C++) etc.
+You may have heard of some of the more popular ones like **C Sharp** (C#), **Java**, **Javascript** (JS) (nothing to do with java, well kinda...), **PHP**, **Ruby**, **C/C++** (it's said C plus plus) etc.
 
 > Semi boring/interesting fact.
 
