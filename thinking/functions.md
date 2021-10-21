@@ -46,7 +46,8 @@ int Add(int a, int b)
 
 So this bit here is saying:
 
-- We want to return an `int` value
+- I am declaring a `function`
+- We want it to return an `int` value
 - The name of the function is `Add`
 - The first argument is an `int` named `a`
 - The second argument is an `int` named `b`
