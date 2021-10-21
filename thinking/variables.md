@@ -94,10 +94,8 @@ This is the value we are assigning to the variable we created.
 
 This little gem is one of my favourite things, its a **Semi-colon** and it represents grace and beauty... as well as indicating that you have finished the current line of code, so it can be evaluated. 
 
-> Some programming languages don't like semi colins (such as **Python**) and that makes me very sad, and can keep me awake at night...
+> Some programming languages don't like semi colons (such as **Python**) and that makes me very sad, and can keep me awake at night...
 
 ### Congrats!
 
 If this was a game you would earn an achievement here, something cleverly named (I can't think of anything though).
-
-
