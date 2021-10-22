@@ -1,6 +1,6 @@
 # Summary
 
-* [Welcome](readme.md)
+* [Welcome](README.md)
 * [Thinking about stuff](thinking/readme.md)
     * [What is code?](thinking/what-is-code.md)
     * [Variables](thinking/variables.md)
