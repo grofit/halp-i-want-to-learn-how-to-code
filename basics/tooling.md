@@ -1,11 +1,5 @@
 # Tooling
 
-## First Of All Congrats!
-
-Well done on getting this far! we have covered the building blocks for almost all programming you could ever do at this point, and hopefully you will agree that none of it has been too scary.
-
-> Almost all programming at its heart is just running logic (functions) with data (variables), which is the bulk of what we have covered so far, but most real use cases will be building upon these fundamental layers.
-
 ## Tools To Use
 
 So far everything has been theoretical and just you reading stuff, now we want to actually start running code and given we are trying to express the core concepts in a language agnostic way its difficult to have a tool that covers all languages/use cases.

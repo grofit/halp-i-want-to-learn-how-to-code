@@ -9,3 +9,7 @@
     * [Operators](thinking/operators.md)
     * [Functions](thinking/functions.md)
     * [End](thinking/end.md)
+* [Basic Coding](basics/basics-welcome.md)
+    * [Tooling](thinking/tooling.md)
+    * [Hello World](thinking/hello-world.md)
+    * [Interpreted vs Compiled Languages](thinking/interpreted-vs-compiled-languages.md)
